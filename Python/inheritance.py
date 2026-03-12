@@ -28,7 +28,7 @@ obj=experince()
 obj.details()
 obj.data()
 obj.ex()
-
+m
 '''
 ''' 
 class employe:
